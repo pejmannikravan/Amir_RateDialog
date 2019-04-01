@@ -15,6 +15,7 @@ Advanced Rate Dialog Library
 
 ## DependsOn
 NineOldAndroid
+
 AppCompat 4.00
 
 ## Author
