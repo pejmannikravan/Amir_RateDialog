@@ -21,6 +21,8 @@ Advanced Rate Dialog Library
 - Cancel Button Added
 - You can hide title (don't set title)
 - onBind event (create your custom view on dialog)
+- Ripple Effect into Buttons
+- Buttons Enabled
 - Bugs Fixed
 
 ## DependsOn
