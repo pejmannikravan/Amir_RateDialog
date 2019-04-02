@@ -12,7 +12,8 @@ Advanced Rate Dialog Library
 ...
 
 **Version 1.02**
-Whats New ?
+
+# Whats New ?
 - Set Buttons Gravity
 - Set Dot Background
 - Set Dot Items Space
