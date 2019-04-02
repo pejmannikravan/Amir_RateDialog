@@ -11,7 +11,16 @@ Advanced Rate Dialog Library
 
 ...
 
-**Version 1.00**
+**Version 1.02**
+Whats New ?
+- Set Buttons Gravity
+- Set Dot Background
+- Set Dot Items Space
+- Support 10 or 5 Stars
+- Cancel Button Added
+- You can hide title (don't set title)
+- onBind event (create your custom view on dialog)
+- Bugs Fixed
 
 ## DependsOn
 NineOldAndroid
