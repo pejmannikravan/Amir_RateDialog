@@ -38,6 +38,9 @@ NineOldAndroid
 
 AppCompat 4.00
 
+## Android - Java Library
+https://github.com/Aghajari/AmirRateDialog-Android-Java
+
 ## Author
 Amir Hossein Aghajari
 
