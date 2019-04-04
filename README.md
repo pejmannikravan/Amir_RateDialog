@@ -11,9 +11,17 @@ Advanced Rate Dialog Library
 
 ...
 
-**Version 1.02**
+**Version 1.04**
 
 # Whats New ?
+**Version 1.04**
+- Clickable Seekbar
+- Click Sensitivity
+- get/set position runtime
+- Animation Interpolator
+- ver1.02 Bugs Fixed
+
+**Version 1.02**
 - Set Buttons Gravity
 - Set Dot Background
 - Set Dot Items Space
@@ -23,7 +31,7 @@ Advanced Rate Dialog Library
 - onBind event (create your custom view on dialog)
 - Ripple Effect into Buttons
 - Buttons Enabled
-- Bugs Fixed
+- ver1.00 Bugs Fixed
 
 ## DependsOn
 NineOldAndroid
